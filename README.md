@@ -1,4 +1,5 @@
 # NJmatML
+pip install NJmatML
 
 Automates data-driven machine learning for materials science via NJmatML (材料数据可视化、机器学习建模与预测)
 
@@ -7,6 +8,8 @@ Automates data-driven machine learning for materials science via NJmatML (材料
 ## 说明书
 User Mannual（说明书参见）: https://nbviewer.org/github/Zhang-NJ-Lab/NJmatML/blob/main/2022-11-17/NJmatML-2022-11-17.ipynb    
 
+
+## csv模板
 csv模板请参见：https://github.com/Zhang-NJ-Lab/NJmatML/tree/main/2022-11-17  
 
 起始训练测试数据集csv（最右一列需要为输出数据，每列需要有列名）：https://github.com/Zhang-NJ-Lab/NJmatML/blob/main/2022-11-17/2DEformationCleaned.csv 
