@@ -1,5 +1,5 @@
 # NJmatML
-pip install NJmatML
+## pip install NJmatML
 
 Automates data-driven machine learning for materials science via NJmatML (材料数据可视化、机器学习建模与预测)
 
