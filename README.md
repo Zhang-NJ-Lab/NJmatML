@@ -6,7 +6,7 @@ Automates data-driven machine learning for materials science via NJmatML (材料
 模块：数据读取，可视化，热图，特征选择，特征生成，重要性排名，机器学习建模，准确率计算，交叉验证，符号回归等等。封装了简便函数用于机器学习建模。
 
 ## 说明书
-User Mannual（说明书参见）: https://nbviewer.org/github/Zhang-NJ-Lab/NJmatML/blob/main/2022-11-17/NJmatML-2022-11-17.ipynb    
+User Mannual（说明书参见）: https://nbviewer.org/github/Zhang-NJ-Lab/NJmatML/blob/main/2022-11-21/NJmatML-2022-11-21.ipynb   
 
 
 ## csv模板
