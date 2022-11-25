@@ -1,0 +1,14 @@
+﻿7 :Effect of dyenamo orange as Additive for Fully Screen-Printable Perovskite Solar Cells
+
+
+One of the efficient strategies for improving the performance of perovskite solar cells (PSCs) is to reduce the interfacial recombination loss, as well as to control the crystalline growth of perovskite by using additives. In fully screen-printable␣hole transport material-free PSCs with carbon electrode, the perovskite penetrates into the mesoporous structure of three layers (TiO_2, ZrO_2, and carbon), thus it is suggested that improving the perovskite crystalline growth will be very important to decrease the charge recombination and improve the transport of electric charge carriers. In this work, we introduced polyethylene glycol (PEG) as an additive into the perovskite precursor solution, which effectively improved the photovoltaic performance of the device. We found that PEG addition could effectively increase the perovskite crystal size and thus decrease the interfacial recombination loss and improve the light absorption by the perovskite film. When PEG was added, the performance of the solar cell increased from 11.07% to 14.71%, while the long-term stability of the device also improved.
+
+8 :Grain boundary passivation with triazine-graphdiyne to improve perovskite solar cell performance
+
+
+9 :Boosting optoelectronic performance of MAPbI_3 perovskite solar cells via ethylammonium chloride additive engineering
+
+
+
+The quality of the perovskite light absorption layer plays a dynamic role in the photovoltaic properties of solar cells. The existing methods to prepare methylammonium lead iodide (MAPbI_3) films render substantial structural defect density, particularly at the grain boundaries and film surface, constituting a challenge that hinders the further optoelectronic enhancement of perovskite solar cells. Herein, a unique approach was introduced: using a simple ethylammonium chloride (EACl) additive in perovskite precursor mixture to produce high-quality MAPbI_3 thin films. The results indicated that EACl could encourage perovskite crystal growth without experiencing the intermediate phase formation and would evaporate from the perovskite after annealing. Additionally, a gradient perovskite structure was achieved using this technique, which impressively enhanced the performance of the perovskite films. A high power conversion efficiency (PCE) of 20.03% was achieved under the optimal amount of EACl, and the resultant efficient device could retain over 89% of the original PCE after aging for 1000 h at room temperature. This novel technique leads to a facile fabrication of high-quality and less-defect perovskite thin films for competent and stable devices. 
+10 :Investigation of La_0.75Sr_0.25Cr_0.5Mn_0.5O_3-δ–Ag composite anodes for solid oxide fuel cells obtained via a low-temperature sintering process
