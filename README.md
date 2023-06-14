@@ -1,22 +1,22 @@
 # NJmatML
 ## pip install NJmatML
 
-Automates data-driven machine learning for materials science via NJmatML (材料数据可视化、机器学习建模与预测)
+Automates data-driven machine learning for materials science via NJmatML (materials data visualization, machine learning model construction and prediciton)
 
-模块：数据读取，可视化，热图，特征选择，特征生成，重要性排名，机器学习建模，准确率计算，交叉验证，符号回归等等。封装了简便函数用于机器学习建模。
+Modules: file import, visualization, machine learning model construction, feature generation (inorganics and organics), feature analysis (importance ranking, feature selection, accuracy calculation, symbolic regression and prediction dataset construction.
 
-## 说明书
-User Mannual（说明书参见）: https://nbviewer.org/github/Zhang-NJ-Lab/NJmatML/blob/main/2022-11-21/NJmatML-2022-11-21.ipynb   
+## User mannual
+User mannual: https://nbviewer.org/github/Zhang-NJ-Lab/NJmatML/blob/main/2022-11-21/NJmatML-2022-11-21.ipynb   
 
 
-## csv模板
-csv模板请参见：https://github.com/Zhang-NJ-Lab/NJmatML/tree/main/2022-11-17  
+## csv template
+csv template: https://github.com/Zhang-NJ-Lab/NJmatML/tree/main/2022-11-17  
 
-起始训练测试数据集csv（最右一列需要为输出数据，每列需要有列名）：https://github.com/Zhang-NJ-Lab/NJmatML/blob/main/2022-11-17/2DEformationCleaned.csv 
+csv template for train/test dataset (the righmost column should be the target output; every column should have a column header): https://github.com/Zhang-NJ-Lab/NJmatML/blob/main/2022-11-17/2DEformationCleaned.csv 
 
-待预测csv：https://github.com/Zhang-NJ-Lab/NJmatML/blob/main/2022-11-17/x_New.csv 
+csv template waiting for machine learning prediction: https://github.com/Zhang-NJ-Lab/NJmatML/blob/main/2022-11-17/x_New.csv 
 
-特征生成中的无机材料化学式csv：https://github.com/Zhang-NJ-Lab/NJmatML/blob/main/2022-11-17/Inorganic_formula.csv 
+csv template for feature generation for inorganic material formulas: https://github.com/Zhang-NJ-Lab/NJmatML/blob/main/2022-11-17/Inorganic_formula.csv 
 
-特征生成中的有机材料化学式csv：Featurize_formula_exps.csv
+csv template for feature generation for organic materials: Featurize_formula_exps.csv
 
